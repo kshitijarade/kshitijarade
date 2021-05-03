@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning iOS programing and python
 - 💞️ I’m looking to collaborate in Open source projects
 - 📫 How to reach me kshitijarade@gmail.com
-- 💻 My Stack Overflow prfile link https://stackoverflow.com/users/6243797/kshitij?tab=profile
+- 💻 My Stack Overflow profile link https://stackoverflow.com/users/6243797/kshitij?tab=profile
 
 <!---
 kshitijarade/kshitijarade is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
